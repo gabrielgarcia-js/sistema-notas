@@ -2,7 +2,7 @@
 
 Aplicação web simples para cálculo de média de alunos.
 
-🔗 Acesse o projeto online: (https://github.com/gabrielgarcia-js/sistema-notas)
+🔗 Acesse o projeto online: (https://gabrielgarcia-js.github.io/sistema-notas/)
 
 ## 🚀 Funcionalidades
 - Inserção de nome e notas
