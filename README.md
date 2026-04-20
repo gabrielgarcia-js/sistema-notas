@@ -1,21 +1,18 @@
 # 📊 Sistema de Notas
 
-Projeto desenvolvido com HTML, CSS e JavaScript.
+Aplicação web simples para cálculo de média de alunos.
+
+🔗 Acesse o projeto online: (cola o link do GitHub Pages aqui)
 
 ## 🚀 Funcionalidades
 - Inserção de nome e notas
 - Cálculo automático da média
 - Exibição de resultado (aprovado/reprovado)
 
-## 💻 Tecnologias
+## 💻 Tecnologias utilizadas
 - HTML
 - CSS
 - JavaScript
 
 ## 📌 Objetivo
-Praticar lógica de programação e manipulação do DOM.
-
-## ▶️ Como usar
-1. Abra o arquivo index.html no navegador
-2. Preencha os campos
-3. Clique em "Calcular"
+Projeto desenvolvido para praticar lógica de programação e manipulação do DOM.
